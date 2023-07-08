@@ -1,6 +1,6 @@
--- Descripción: 
+-- D E S C R I P C I O N --
 
- Sitio web realizado durante los cursos de Ingenieria I, Ingenieria II y Ingenieria III,
+ Sitio web realizado en WordPress durante los cursos de Ingenieria I, Ingenieria II y Ingenieria III,
  para la empresa Colombiana Textilera Tintatex SA.
 
-Link para abrir el CMS: https://tintatex.co/
+ Link para abrir el CMS: https://tintatex.co/
