@@ -1,4 +1,4 @@
--- D E S C R I P C I O N --
+-- D E S C R I P C I Ó N --
 
  Sitio web realizado en WordPress durante los cursos de Ingenieria I, Ingenieria II y Ingenieria III,
  para la empresa Colombiana Textilera Tintatex SA.
